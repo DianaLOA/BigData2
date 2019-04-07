@@ -5,13 +5,13 @@ Nueva versión del curso Extracción de datos, alumnos UTEM.
 Estamos motivados para continuar creando nuevas bases de datos.
 
 <ol>
-<il>Programción<il/>
-<il>Expertiz<il/>
-<il>Estadísticas<il/>
-<ol/>
+<il>Programción</li>
+<il>Expertiz</li>
+<il>Estadísticas</li>
+</ol>
 
 
-1. Programción
+1. Programación
 2. Expertiz
 3. Estadísticas
 
