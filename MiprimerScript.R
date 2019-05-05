@@ -101,7 +101,7 @@ check2valor<-function(elValor){
 
 for(w in 1:length(lista2)){
   
-  check2valor(lista[w])
+  check2valor(lista2[w])
 }
 
 
@@ -114,8 +114,9 @@ while(TRUE){
   
 }
 
+# el valor va de 1 a 1000
 variable<-0
-while(variable<1000){
+while(variable<=1000){
   print(paste("hola mundo",variable))
   variable<-variable+1
   
